@@ -1,0 +1,9 @@
+node_modules/
+test-results/
+playwright-report/
+.env
+
+ghinstall.log
+*.log
+results.json
+final.bat
