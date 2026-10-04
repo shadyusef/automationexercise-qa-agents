@@ -1,4 +1,8 @@
-# Project Brief: automationexercise.com QA
+# Testing Agent Team: automationexercise.com QA
+
+![Testing agent team](docs/testing-agent-team-diagram.png)
+
+Run the team: open this folder in Claude Code and run `claude --agent qa-lead`.
 
 ## What was built
 A four-agent QA team (definitions in `.claude/agents/`) and a Playwright + TypeScript UI test project:
